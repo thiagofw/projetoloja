@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-
+//
 namespace LojaWeb.Data;
 
 public partial class VsprojectContext : DbContext

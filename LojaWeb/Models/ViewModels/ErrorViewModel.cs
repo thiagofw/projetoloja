@@ -1,4 +1,4 @@
-namespace LojaWeb.Models;
+namespace LojaWeb.Models.ViewModels;
 
 public class ErrorViewModel
 {
